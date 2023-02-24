@@ -5,4 +5,4 @@ Welcome to dmyt forum.
 
 Содержание:
 
-* `Новый дизайн + форум обновлен до phpbb 3.3.3 <https://html5css3web3.readthedocs.io/ru/latest/newdesign-forumupdated.html>`_ 
+* `Новый дизайн + форум обновлен до phpbb 3.3.3 <https://dmytforum.readthedocs.io/ru/latest/newdesign-forumupdated.html>`_ 
